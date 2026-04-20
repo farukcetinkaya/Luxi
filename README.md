@@ -1,4 +1,4 @@
-# Luxi Uygulaması
+# Luxi
 
 Luxi, Flutter ile geliştirilmiş temel bir e-ticaret katalog/sepet projesidir. Ürün listesini grid (ızgara) yapısında sunar, sepet yönetimi içerir ve ürün detay sayfalarına geçiş imkanı sağlar.
 
@@ -12,7 +12,7 @@ Luxi, Flutter ile geliştirilmiş temel bir e-ticaret katalog/sepet projesidir. 
 Flutter 3.x.x (SDK >=3.0.0 <4.0.0)
 
 ## Çalıştırma Adımları
-1. Bu projeyi bilgisayarınıza klonlayın (`git clone <repo-url>`).
+1. Bu projeyi bilgisayarınıza klonlayın (`git clone <https://github.com/farukcetinkaya/Luxi>`).
 2. Terminali açın ve proje dizinine gidin.
 3. Bağımlılıkları yüklemek için `flutter pub get` komutunu çalıştırın.
 4. Uygulamayı başlatmak için bir emülatör veya cihaz bağlayıp `flutter run` komutunu çalıştırın.
