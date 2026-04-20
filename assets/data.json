@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "AirPods Pro (2nd Gen)",
+    "description": "Adaptive Audio. Now with USB-C and next-level Active Noise Cancellation.",
+    "price": 249.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Case": "MagSafe",
+      "Audio": "Adaptive",
+      "Colors": "1 color"
+    }
+  },
+  {
+    "id": 2,
+    "title": "AirPods Max",
+    "description": "Sound focused. High-fidelity audio, Active Noise Cancellation with Transparency mode, and personalized spatial audio.",
+    "price": 549.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Battery": "20 hours",
+      "Audio": "Spatial",
+      "Colors": "5 colors"
+    }
+  },
+  {
+    "id": 3,
+    "title": "HomePod",
+    "description": "Profound sound. High-fidelity audio, intelligent assistant that helps manage everyday tasks.",
+    "price": 299.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Size": "6.6 inches",
+      "Audio": "Spatial",
+      "Colors": "2 colors"
+    }
+  },
+  {
+    "id": 4,
+    "title": "HomePod Mini",
+    "description": "Color pop. Jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size.",
+    "price": 99.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Size": "3.3 inches",
+      "Audio": "360-degree",
+      "Colors": "5 colors"
+    }
+  },
+  {
+    "id": 5,
+    "title": "iPhone 15 Pro",
+    "description": "Titanium. So strong. So light. So Pro. Features A17 Pro chip and customizable Action button.",
+    "price": 999.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Screen": "6.1 inches",
+      "Camera": "48MP",
+      "Colors": "4 colors"
+    }
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro 14\"",
+    "description": "Pro to the max. The most advanced Mac laptop for demanding workflows.",
+    "price": 1599.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Screen": "14 inches",
+      "Chip": "M3 Pro",
+      "Colors": "2 colors"
+    }
+  },
+  {
+    "id": 7,
+    "title": "iPad Air",
+    "description": "Light. Bright. Full of might. Supercharged by the Apple M1 chip.",
+    "price": 599.00,
+    "imageUrl": "assets/images/product_placeholder.png",
+    "specs": {
+      "Screen": "10.9 inches",
+      "Chip": "M1",
+      "Colors": "5 colors"
+    }
+  }
+]
